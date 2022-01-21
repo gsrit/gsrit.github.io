@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T11:59:57.104Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="I9hcjqbpEynmDltgmyx3" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T12:00:07.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zA3b-rPB3Kl9QCEU-DsM" version="16.4.3" type="github">
   <diagram name="Page-1" id="80d4a630-b321-0f5e-ff81-c5a36ef4752d">
     <mxGraphModel dx="2031" dy="1123" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -187,17 +187,11 @@
         <mxCell id="iNawU369JC3ipiWdqkLe-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Internet&lt;/font&gt;&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/CDN_Profiles.svg;" vertex="1" parent="1">
           <mxGeometry x="1433" y="450" width="142" height="83.53" as="geometry" />
         </mxCell>
-        <mxCell id="iNawU369JC3ipiWdqkLe-7" value="Public IP: 31.56.1.34" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1077" y="341" width="180" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="iNawU369JC3ipiWdqkLe-8" value="Public IP: 141.50.11.34" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6F0000;fillColor=#a20025;fontSize=18;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1389" y="678" width="201" height="26" as="geometry" />
         </mxCell>
         <mxCell id="iNawU369JC3ipiWdqkLe-9" value="Public IP: 31.56.1.34" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6F0000;fillColor=#a20025;fontSize=18;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1182" y="223" width="182" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="iNawU369JC3ipiWdqkLe-10" value="Public IP: 31.56.1.34" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1077" y="381" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iNawU369JC3ipiWdqkLe-11" value="Public IP: 31.56.1.34" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6F0000;fillColor=#a20025;fontSize=18;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1540" y="750" width="182" height="26" as="geometry" />
@@ -243,9 +237,6 @@
             <mxPoint x="1922.178571428571" y="191" as="targetPoint" />
             <mxPoint x="1958" y="241.9137055837565" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="iNawU369JC3ipiWdqkLe-31" value="Public IP: 31.56.1.34" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="415" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iNawU369JC3ipiWdqkLe-32" value="" style="shape=mxgraph.cisco.servers.file_server;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="473" y="580" width="43" height="58" as="geometry" />
@@ -483,7 +474,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iNawU369JC3ipiWdqkLe-102" value="192.168.X.X - LAN Users&lt;br&gt;10.222.X.X - WLAN Users&lt;br&gt;10.10.X.X - DEV&lt;br&gt;172.16.X.X - PROD" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;fontStyle=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="397" y="55" width="247" height="149" as="geometry" />
+          <mxGeometry x="414" y="111" width="247" height="149" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
